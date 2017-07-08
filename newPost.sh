@@ -11,13 +11,11 @@ FILENAME="$DATE-${TITLE}.md"
 POST="_posts/$FILENAME"
 
 echo "---" > $POST
-echo "layout: single" >> $POST
+echo "layout: post" >> $POST
 echo "title: '${1}'" >> $POST
 echo "date: '$DATETIME'" >> $POST
 echo "author: Nikolay Akatyev and Joshua I. James" >> $POST
-echo "tags:" >> $POST
-echo "- Cyber Peacekeeping" >> $POST
-echo "- CPK" >> $POST
+echo "categories: [Cyber Peacekeeping, CPK]" >> $POST
 echo "modified_time: '$DATETIME'" >> $POST
 echo "---" >> $POST
 

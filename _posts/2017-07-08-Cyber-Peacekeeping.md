@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: post
 title: 'Cyber Peacekeeping'
 date: '2017-07-08T19:35:13+09:00'
 author: Nikolay Akatyev and Joshua I. James
+categories: [Cyber Peacekeeing, CPK, About]
 tags:
 - Cyber Peacekeeping
 - CPK
