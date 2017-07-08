@@ -1,0 +1,55 @@
+title: Cyber Peacekeeping
+description: Research and resources to promote Cyber Peacekeeping collaboration
+author: Nikolay Akatyev & Joshua I. James
+github: https://github.com/jijames/cyberpeacekeeping
+about: We are cyber security researchers dedicated to preventing cyber-physical conflicts through Cyber Peacekeeping.
+disqus_shortname: cybercrimetech
+google_analytics: UA-102250855-1
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: [cyber peacekeeping cyberpeacekeeping CPK cyberwarfare cyberwar cyberpeace peacekeeping PKO warfare war cybersecurity cybersec infosec]
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/cybercrimetech"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "#"
+
+share:
+  twitter_username: cybercrimetech
+  fb_appid: 
+
+urls:
+    - text: About Us
+      url: /about/
+    - text: Research
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "http://cyberpeacekeeping.org"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
