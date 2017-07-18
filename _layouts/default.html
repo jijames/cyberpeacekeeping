@@ -8,8 +8,9 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/static/img/favicon.ico" />
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.author }}{% endif %}</title>
-    <meta name="author" content="{{ site.author }}" />
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}Cyber Peacekeeping{% endif %}</title>
+    <meta name="author" content="Nikolay Akatyev" />
+    <meta name="author" content="Joshua I. James" />
     <meta name="description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="keywords" content="{% if page.title %}{{ page.title }}, {{ site.title }}, {% for categ in page.categories %}{{ categ }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% else %}{{ site.title }}, {% for category in site.categories %}{% capture categories_slug %}{{ category | first }}{% endcapture %}{% for categ in categories_slug %}{{ categ }}{% endfor %}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}" />
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
@@ -121,13 +122,13 @@ layout: compress
               {{ site.about }}
             </div>
           {% endif %}
-          <div class="social">
+          <!-- <div class="social">
             <ul>
               {% for link in site.social %}
                 <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
               {% endfor %}
             </ul>
-          </div>
+          </div> -->
           <div class="search" id="js-search">
             <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
             <ul class="search__results" id="js-search__results"></ul>
