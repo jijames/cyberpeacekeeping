@@ -10,6 +10,8 @@ avatar_url: /static/img/avatar.jpg
 enableTags: true
 tagarray: [Cyber Peacekeeping, Peacekeeping, Cyberwar, War]
 
+permalink: /:year/:month/:day/:title.html
+
 collections:
   project:
     output: true
