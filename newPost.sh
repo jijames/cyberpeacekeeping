@@ -19,5 +19,5 @@ echo "categories: [Cyber Peacekeeping, CPK]" >> $POST
 echo "modified_time: '$DATETIME'" >> $POST
 echo "---" >> $POST
 
-xed $POST &
+atom $POST &
 fi
