@@ -1,5 +1,5 @@
 ---
-title: Cyber Peacekeeping
+title: Blog.Erictreacy.Github.Io
 timezone: America/New_York
 collections:
   posts:
@@ -8,9 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-permalink: "/:year/:month/:day/:title.html"
-name: Cyber Peacekeeping
-description: A collection of essays and other works on Cyber Peacekeeping and Cyber Warfare
+permalink: "/blog/:title"
+name: Writing
+description: A blog on Jekyll and GitHub Pages
 google_verification: 
 include:
 - ".htaccess"
