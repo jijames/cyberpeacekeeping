@@ -11,9 +11,9 @@ A collection of papers and posts related to Cyber Peacekeeping.
 * Robinson, M., Jones, K., & Janicke, H. (2017). An Introduction to Cyber Peacekeeping. Retrieved from [https://arxiv.org/abs/1710.09616](https://arxiv.org/abs/1710.09616)
 * Akatyev, N., & James, J. I. (2015). Cyber Peacekeeping. In Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST (Vol. 157, pp. 126–139). [https://doi.org/10.1007/978-3-319-25512-5_10](https://doi.org/10.1007/978-3-319-25512-5_10)
 
-### News and Blogs
+## News and Blogs
 * 2014-04-06: [Keeping the Peace in Frightening New Arena: The UN's Cyber Options](http://www.truth-out.org/opinion/item/22891-keeping-the-peace-the-uns-cyber-options)
 * 2012-11: [What should be the United Nations' cyber role?](https://defensesystems.com/blogs/cyber-report/2012/11/united-nations-cyber-role.aspx)
 
-### CPK Related
+## Other Related
 * Šišulák, S. (2017). USERFOCUS -TOOL FOR CRIMINALITY CONTROL OF SOCIAL NETWORKS AT BOTH THE LOCAL AND INTERNATIONAL LEVEL, 552(210). [https://doi.org/10.9770/jesi.2017.5.2(10)](https://doi.org/10.9770/jesi.2017.5.2(10))
