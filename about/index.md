@@ -18,7 +18,7 @@ email: nikolay.akatyev+2018 [at] gmail.com
 # Joshua I. James
 Joshua is an Adjunct Professor with the Legal Informatics and Forensic Science Institute at Hallym University. He is also a consultant with the United Nations Office on Drugs and Crime focusing on Cybercrime Investigation Training and Mutual Legal Assistance issues. His research focus area is event reconstruction in post-mortem digital investigations.
 
-* email: joshua+2018 [at] dfirscience.org
+* email: joshua+CPK [at] dfir.science
 * GPG: 0x7B9D7C266DF5FCB3
-* twitter: @dfirscience
-* web: https://dfir.science
+* twitter: [@dfirscience](https://twitter.com/dfirscience)
+* web: [https://dfir.science](https://dfir.science)
